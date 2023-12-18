@@ -64,7 +64,7 @@ body {
   flex-direction: column;
   width: 100%;
   min-height: 100%;
-  background-image: url(../assets/images/bg-sidebar-desktop.svg);
+  background-image: url(assets/images/bg-sidebar-desktop.svg);
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: cover;
@@ -174,7 +174,7 @@ body {
 
   .box .steps {
     min-height: 100%;
-    background-image: url(../assets/images/bg-sidebar-mobile.svg);
+    background-image: url(assets/images/bg-sidebar-mobile.svg);
     flex-direction: row;
     justify-content: center;
     border-radius: 0;
