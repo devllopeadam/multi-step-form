@@ -323,10 +323,12 @@ body {
 
 
 @media (max-width:768px) {
+
   #next,
   #previous {
     position: absolute;
   }
+
   .box .selections .selection.info #next {
     position: absolute;
     right: 0;
@@ -767,6 +769,7 @@ body {
   0% {
     opacity: 0;
   }
+
   100% {
     opacity: 1;
   }
